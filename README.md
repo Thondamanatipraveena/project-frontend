@@ -1,2 +1,2 @@
-# project-frontend
-https://roadmap.sh/projects/single-page-cv
+# cv
+It is a simple single page cv 
